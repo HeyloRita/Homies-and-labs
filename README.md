@@ -1,3 +1,4 @@
+Основы алгоритмизации и программирования
 [Домашка 1](https://github.com/HeyloRita/Homies-and-labs/blob/main/Домашка%201.docx)
 [Домашка 2](https://github.com/HeyloRita/Homies-and-labs/blob/main/Домашка%202.docx)
 [Домашка 3](https://github.com/HeyloRita/Homies-and-labs/blob/main/Домашка%203.docx)
